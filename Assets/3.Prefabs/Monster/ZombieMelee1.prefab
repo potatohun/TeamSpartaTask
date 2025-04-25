@@ -132,18 +132,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 92a152da50dbf004ba8977688250de12, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  _maxHp: 100
+  _hp: 100
+  _power: 1
   _currentState: 0
   _moveSpeed: 3
   _jumpPower: {x: -1.5, y: 8}
-  _rayDistanceFront: 0.75
-  _rayDistanceUp: 1
-  _maxHp: 100
-  _hp: 100
-  _power: 2
+  _jumpCooldown: 1
   _rayLayerMask:
     serializedVersion: 2
     m_Bits: 0
-  _spriteRenderers: []
+  _rayDistanceFront: 0.75
+  _rayDistanceUp: 1
+  _targetEntity: {fileID: 0}
 --- !u!1 &2094693183665648150
 GameObject:
   m_ObjectHideFlags: 0

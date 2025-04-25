@@ -323,7 +323,7 @@ MonoBehaviour:
   - {fileID: 7223260160754904235, guid: 89a522bd578e13046a9cd3449c51c47d, type: 3}
   - {fileID: 7223260160754904235, guid: 851b4f402787be844a04cce11b233c26, type: 3}
   - {fileID: 7223260160754904235, guid: 191b3fae7025f3543a9e3081cf9a183c, type: 3}
-  _spawnDelay: 0.1
+  _spawnDelay: 0.25
   _spawnPoint: {fileID: 1923949671}
   _minLayerZ: 0
   _maxLayerZ: 3
